@@ -1,0 +1,21 @@
+<html>
+		<head>
+			<title>html</title>
+		</head>
+		<body>
+		
+		<h1>Html</h1>
+		<hr/>
+		<p>HTML is a type of code...yay</p>
+		
+		
+		</body>
+
+
+
+
+
+
+
+
+</html>
